@@ -1,5 +1,1 @@
-import { shallowClone } from './shallowClone';
-
-export {
-	shallowClone
-}
+export { shallowClone } from './shallowClone';
